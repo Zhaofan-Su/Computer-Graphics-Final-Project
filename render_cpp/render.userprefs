@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="renderer.cpp">
+    <Files>
+      <File FileName="geometry.cpp" Line="12" Column="15" />
+      <File FileName="render.h" Line="174" Column="2" />
+      <File FileName="renderer.cpp" Line="51" Column="18" />
+      <File FileName="math.cpp" Line="44" Column="2" />
+      <File FileName="main.cpp" Line="6" Column="1" />
+      <File FileName="loadbmp.cpp" Line="21" Column="17" />
+      <File FileName="light.cpp" Line="12" Column="17" />
+      <File FileName="transform.cpp" Line="28" Column="2" />
+      <File FileName="window.cpp" Line="147" Column="4" />
+      <File FileName="device.cpp" Line="218" Column="23" />
+      <File FileName="../../../Downloads/3DRender-master/3DRender/3DRender/3DRender.cpp" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+﻿cl : 命令行 warning D9007: “/Gm”需要“/Zi 或 /ZI”；选项被忽略
+  transform.cpp
+  geometry.cpp
+  light.cpp
+  loadbmp.cpp
+c:\users\苏昭帆\desktop\课件\计算机图形学_贾金原\课设\图形学\render\loadbmp.cpp(8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  math.cpp
+  device.cpp
+  renderer.cpp
+  main.cpp
+  window.cpp
+c:\users\苏昭帆\desktop\课件\计算机图形学_贾金原\课设\图形学\render\window.cpp(25): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+  正在生成代码...
+  render.vcxproj -> C:\Users\苏昭帆\Desktop\课件\计算机图形学_贾金原\课设\图形学\render\.\Debug\render.exe
